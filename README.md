@@ -13,7 +13,17 @@
 3. React Js.
 4. Node Js.
 
-# Getting Started with Create React App
+## Preview of Application
+
+
+![SignUp](https://user-images.githubusercontent.com/77496745/223792913-3947e0e8-af6c-4b62-9f6f-3516ed73369d.png)
+![Login1](https://user-images.githubusercontent.com/77496745/223793077-2c2b9112-b29f-40a3-8e09-7b162897175b.png)
+![InputAddNote](https://user-images.githubusercontent.com/77496745/223793181-88b14f90-2ae4-4111-bee1-13a3db325658.png)
+![NoteAdded](https://user-images.githubusercontent.com/77496745/223793201-a8386bd7-a428-40b2-8467-297c2dab2a19.png)
+
+![EditNote](https://user-images.githubusercontent.com/77496745/223793412-35dc2a23-8561-4dfb-91d8-6da3f43f6711.png)
+
+# Important Instructions
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
