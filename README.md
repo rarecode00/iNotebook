@@ -6,12 +6,14 @@
 <img width = "100" alt = "react-img" src = "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" >        
 <img width = "100" height = "100" alt = "react-img" src = "https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" >
 <img width = "100" alt = "react-img" src = "https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" >
+<img width = "100" alt = "react-img" src = "https://www.drupal.org/files/project-images/bootstrap-stack.png" >
 </p>
 
 1. MongoDB(Database to Store the User and Notes.
 2. Express Js.
 3. React Js.
 4. Node Js.
+5. Bootstrap.
 
 ## Preview of Application
 
@@ -22,6 +24,14 @@
 ![NoteAdded](https://user-images.githubusercontent.com/77496745/223793201-a8386bd7-a428-40b2-8467-297c2dab2a19.png)
 
 ![EditNote](https://user-images.githubusercontent.com/77496745/223793412-35dc2a23-8561-4dfb-91d8-6da3f43f6711.png)
+
+## Features
+
+1. INotebook is a web-based application that uses the MERN stack (MongoDB, Express, React, and Node.js) to provide a seamless user experience.
+2. Users can create, edit, upload, and delete their personal notes and information using INotebook.
+3. INotebook ensures that users' notes are private and secure by implementing a secure login page. This means that only authorized users can access their personal notes, protecting their privacy.
+4. The platform is designed to be intuitive and user-friendly, making it easy for users to navigate and use the application.
+5. Users can access their notes from any device with an internet connection, and any changes made are synced automatically.
 
 # Important Instructions
 
