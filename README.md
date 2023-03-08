@@ -1,3 +1,18 @@
+## INotebook Application
+
+### Tools Used
+<p align = "left">
+<img width = "100" alt = "react-img" src = "https://media.licdn.com/dms/image/C4D0BAQFKe8PwqzyHyA/company-logo_200_200/0/1635171226731?e=2147483647&v=beta&t=Vo7rxqB6dRpzOnG3ZyjAl0aWfV3C5SsWtunxUY0fEq4" >
+<img width = "100" alt = "react-img" src = "https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" >        
+<img width = "100" height = "100" alt = "react-img" src = "https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" >
+<img width = "100" alt = "react-img" src = "https://pluralsight2.imgix.net/paths/images/nodejs-45adbe594d.png" >
+</p>
+
+1. MongoDB(Database to Store the User and Notes.
+2. Express Js.
+3. React Js.
+4. Node Js.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
