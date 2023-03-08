@@ -40,7 +40,7 @@ function Navbar(props) {
               Profile
             </button>
             <ul className="dropdown-menu">
-              <li><Link className="dropdown-item">{localStorage.getItem('name')}</Link></li>
+              <li><Link className="dropdown-item">{localStorage.getItem('Name')}</Link></li>
             </ul>
         </div>
          <button onClick={handleClick} className='add-button btn btn-primary'>Log Out</button>
