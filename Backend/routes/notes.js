@@ -7,7 +7,6 @@ const { body, validationResult } = require('express-validator');
 // Router 1
 
 router.get('/fetchallnotes' , fetchuser , async (req , res) =>{
-       console.log("Hello it's running allright")
        const notes = await Notes.find({user : req.user.id});
        res.json(notes);
 })
